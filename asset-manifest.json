@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FirstReactWebsite/static/css/main.c80a79cd.css",
+    "main.js": "/FirstReactWebsite/static/js/main.93d075a0.js",
+    "static/media/img-4.jpg": "/FirstReactWebsite/static/media/img-4.a31875b76d39f6458a6e.jpg",
+    "static/media/img11.jpg": "/FirstReactWebsite/static/media/img11.eb5be8244c70970d78be.jpg",
+    "static/media/img10.png": "/FirstReactWebsite/static/media/img10.36dd03c2a41532acf319.png",
+    "static/media/img-9.jpg": "/FirstReactWebsite/static/media/img-9.f97f588f3670715d01b2.jpg",
+    "static/media/img12.png": "/FirstReactWebsite/static/media/img12.f7e68e1b6d80ce88d69c.png",
+    "index.html": "/FirstReactWebsite/index.html",
+    "main.c80a79cd.css.map": "/FirstReactWebsite/static/css/main.c80a79cd.css.map",
+    "main.93d075a0.js.map": "/FirstReactWebsite/static/js/main.93d075a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c80a79cd.css",
+    "static/js/main.93d075a0.js"
+  ]
+}
